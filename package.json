@@ -1,6 +1,6 @@
 {
   "name": "vertex-camo",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "A class-based ES6 ODM for Mongo-like databases.",
   "license": "MIT",
   "scripts": {
